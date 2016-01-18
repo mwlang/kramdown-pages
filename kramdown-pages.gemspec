@@ -5,7 +5,7 @@ require 'kramdown-pages/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "kramdown-pages"
-  gem.version       = Kramdown::Parser::KRAMDOWN_GIST_VERSION
+  gem.version       = Kramdown::Parser::PAGES_VERSION
   gem.platform      = Gem::Platform::RUBY
   gem.authors       = ["Michael lang"]
   gem.email         = ["mwlang@cybrains.net"]
